@@ -30,8 +30,16 @@
 }
 
 .in-put{
-    padding: 8px 25px;
+    padding: 8px 40px;
     font-size: 20px;
     border: none;
     border-radius: 10px;
 }
+@media (max-width: 480px) { 
+    .in-put{
+    padding: 0;
+    font-size: 0;
+    border: none;
+    border-radius: 5px;
+    }
+ }
