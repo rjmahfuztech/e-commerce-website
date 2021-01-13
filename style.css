@@ -37,9 +37,9 @@
 }
 @media (max-width: 480px) { 
     .in-put{
-    padding: 8px 40px;
+    padding: 5px 10px;
     font-size: auto;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     }
  }
