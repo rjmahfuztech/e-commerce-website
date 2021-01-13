@@ -1,0 +1,37 @@
+.e-card{
+    border: none;
+    border-radius: 0.5em;
+}
+.e-card-footer{
+    background-color: #fff;
+    border: none;
+    border-radius: 0.5em !important;
+}
+.categories img{
+    width: 100px;
+}
+.e-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.b-color{
+    color: #fff;
+    background-color: #ff428d;
+    border: none;
+    border-radius: 8px;
+}
+.b-color:focus{
+    border-color:rgb(3, 162, 255);
+    background-color: #ff0066fb;
+}
+.b-color:hover{
+    background-color: #ff0066fb;
+    color: #fff;
+}
+
+.in-put{
+    padding: 8px 40px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
