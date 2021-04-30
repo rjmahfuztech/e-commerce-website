@@ -1,7 +1,7 @@
 ## e-commerce-website.
 
-<a>
-  <img src="images/panda-commerce.JPG"/>
+<a href="https://rjmahfuztech.github.io/e-commerce-website">
+  <img width="100%" height="100%" src="images/panda-commerce.JPG"/>
 </a>
 
 ### About project
