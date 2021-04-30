@@ -1,5 +1,8 @@
 ## e-commerce-website.
-![](images/panda-commerce.JPG)
+
+<a>
+  <img src="images/panda-commerce.JPG"/>
+</a>
 
 ### About project
 ### A simple single page website.
